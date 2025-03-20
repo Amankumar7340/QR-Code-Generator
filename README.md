@@ -4,4 +4,3 @@ Firebase is used to host this Website.
 1. Paste any link.
 2. Click Download button to save generated QR-Code in jpg image format.
    
-https://qr-code-ab29b.web.app/
