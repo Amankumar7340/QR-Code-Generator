@@ -6,3 +6,7 @@ Firebase is used to host this Website.
 
 Url:-
 https://qr-code-generator-sigma-five.vercel.app/
+
+https://qr-code-generator-sigma-five.vercel.app/
+
+https://qr-code-generator-sigma-five.vercel.app/
